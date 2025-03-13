@@ -2,8 +2,8 @@
 marp: true
 theme: gaia
 paginate: true
-header: "AI Tools for HR/Recruiting Professionals in Engineering Organizations"
-footer: "© 2025 SMAR - HR/Recruiting AI Training"
+header: "AI Tools for Recruiting Professionals in Engineering Organizations"
+footer: "© 2025 SMAR - Recruiting AI Training --- Shuky Meyer"
 style: |
   .columns {
     display: grid;
@@ -71,6 +71,7 @@ style: |
 <!-- _class: lead -->
 # AI Tools for HR & Recruiters Professionals
 ## Enhancing Workflows in Engineering Organizations
+A Presentation by [Shuky Meyer](#)
 
 ---
 
