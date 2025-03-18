@@ -963,7 +963,7 @@ When communication isn't as clear as it could be, I've noticed:
 
 A: Upload examples of communications that exemplify your company voice, and specifically instruct the AI to match that tone and style. Always review and edit AI-generated content before sending.
 
-This document was mostly generated with an AI Assistant, but to ensure accuracey, it has been reviewed and edited by a human.
+This document was mostly generated with an AI Assistant, but to ensure accuracy, it has been reviewed and edited by a human.
 </div>
 </div>
 
